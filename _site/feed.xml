@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Third Thursdays</title>
+    <description>Third Thursdays Info</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>BCIs</title>
+        <description>
+          
+          The Hardest Problem in Neuroscience is the skull. How the Brain Works The Brain has 85 Billion Neurons and 85 Billion Glia Glia in the central nervous system are divided into four kinds: Astrocytes (20-40%) - Gradient Following Badasses, star shaped, envelop synapses, wrap foreign bodies, are the bane of...
+        </description>
+        <pubDate>Thu, 02 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/title/</link>
+        <guid isPermaLink="true">http://localhost:4000/title/</guid>
+      </item>
+    
+  </channel>
+</rss>
