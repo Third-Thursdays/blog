@@ -17,7 +17,7 @@ baseurl: "/blog"
 title: Third Thursdays
 
 # Short description of your site
-description: 
+description: Always be Learning
 
 # --- Navigation bar options --- #
 
@@ -228,4 +228,3 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: jekyll-theme-minimal
